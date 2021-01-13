@@ -1,2 +1,2 @@
-# Final-Assignment-in-Databases-and-SQL-course
+# Final Assignment of Databases and SQL course
  
