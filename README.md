@@ -1,4 +1,4 @@
-# Final Assignment of Databases and SQL course
+# Final Assignment of SQL course
 
 # Assignment Topic:
    In this assignment, you will download the datasets provided, load them into a database, write and execute SQL queries to answer the problems provided, and upload a screenshot showing the correct SQL query and result for review by your peers. A Jupyter notebook is provided in the preceding lesson to help you with the process.
