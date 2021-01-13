@@ -25,8 +25,7 @@
    This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days.
 
 # Write and Execute Queries
-Perform this step in the Jupyter notebook provided in the previous section. Carefully read and understand each problem. Compose and executethe appropriate SQL queries to answer each of the problems. Take a screenshot of each query and its results and save it as a jpg file..
-
+Perform this step in the Jupyter notebook provided in the previous section. Carefully read and understand each problem. Compose and executethe appropriate SQL queries to answer each of the problems. 
 
  Problem 1: Find the total number of crimes recorded in the crime table.
 
